@@ -1,0 +1,2 @@
+El perimetro es: 56
+El area es: <function areaF at 0x035335D0>

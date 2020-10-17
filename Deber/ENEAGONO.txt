@@ -1,0 +1,2 @@
+El perimetro es: 81
+El area es: -91.34420727103293

@@ -1,0 +1,2 @@
+El perimetro es: 18
+El area es: <function areaF at 0x000002527875D730>

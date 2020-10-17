@@ -1,0 +1,2 @@
+El perimetro es: 20
+El area es: -8.792648757786926
